@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Food Delivery App</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favourite">Favourite</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_wishlist">Wishlist</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search_bar_place_holder_hint">What would you like to eat?</string>
+    <string name="cancel_search">الغاء</string>
+    <string name="delivery">Delivery</string>
+    <string name="delivery_location_title">Bacangan, Sambit</string>
+    <string name="choose_category_title">Choose Category</string>
+    <string name="main_course_title">Main Course</string>
+    <string name="see_all_title">See All</string>
+    <string name="favourite_title">Favourite</string>
+    <string name="button_favourite_title">Favourite</string>
+    <string name="button_my_order_title">My Order</string>
+    <string name="description_title">Description</string>
+</resources>
