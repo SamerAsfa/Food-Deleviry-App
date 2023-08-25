@@ -169,7 +169,6 @@ class MainActivity : ComponentActivity() {
                             onUnFavouriteClick = viewModel::unFavouriteDish
                         )
                     }
-
                     else -> {}
                 }
             }
